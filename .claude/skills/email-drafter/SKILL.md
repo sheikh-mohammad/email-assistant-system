@@ -5,6 +5,17 @@ description: This skill should be used when drafting professional emails. Use wh
 
 # Email Drafter
 
+## The Email Templates Skill Structure
+
+```
+.claude/
+   └── skills/
+       └── email-drafter/          # The skill folder
+           ├── SKILL.md            # Core instructions (always loaded)
+           └── references/         # Supporting files (loaded when needed)
+               └── tone-guidelines.md
+```
+
 ## Overview
 Draft professional emails that match your personal tone and communication style.
 
