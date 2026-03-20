@@ -81,9 +81,3 @@ This skill works well with:
 - Gmail MCP for direct sending
 - Calendar tools for meeting request coordination
 - CRM data for personalization
-
-## Anti-Patterns
-- Generic openers ("I hope this finds you well")
-- Wall of text (4-5 short paragraphs max)
-- Multiple CTAs (one clear ask only)
-- Obvious template feel

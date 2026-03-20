@@ -5,6 +5,16 @@ description: This skill summarizes email threads and extracts key information. U
 
 # Email Summarizer
 
+## The Email Summarizer Skill Structure
+
+```
+.claude/skills/
+└── email-summarizer/
+    ├── SKILL.md                    # Main skill instructions
+    └── references/
+        └── extraction-patterns.md  # Pattern recognition library
+```
+
 ## Overview
 
 Transform long email threads into actionable summaries with extracted decisions, action items, and context.
